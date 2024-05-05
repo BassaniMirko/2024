@@ -24,7 +24,7 @@ I esercizi saranno valutati sia a livello concettuale (“idea”) che tecnico (
 - Amelotti Ginevra  https://github.com/AmelottiGinevra/GIM
 - Assamoi Matteo  https://matteoassamoi.github.io/GIMM/
 - Avci Kadir
-- Bassani Mirko
+- Bassani Mirko https://github.com/BassaniMirko/GIM
 - Benedetti Olivia
 - Bettazza Simone   https://github.com/simobobobo/GIM
 - Bianchetti Giorgia    https://github.com/gbnchtt/GIM
